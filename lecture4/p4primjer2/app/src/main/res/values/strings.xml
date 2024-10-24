@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="app_instruction">Izaberite veci broj!</string>
+    <string name="app_name_long">Veci broj</string>
 </resources>
